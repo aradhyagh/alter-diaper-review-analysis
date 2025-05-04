@@ -2,6 +2,8 @@
 
 This project presents an end-to-end natural language processing (NLP) analysis of customer reviews for **Alter Diapers**, collected from Amazon. The data was analyzed using various NLP techniques and visualized in Power BI to generate actionable insights regarding customer sentiments, emotions, and product perceptions.
 
+![Alter Diaper Dashboard](visuals.jpeg)
+
 ---
 
 ## Data Source
